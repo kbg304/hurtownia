@@ -1,1 +1,1 @@
-#Projekt na zaliczenie kursu Programowanie II
+Projekt na zaliczenie kursu Programowanie II
