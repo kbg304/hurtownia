@@ -1,0 +1,900 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7af6306-0149-49c1-a9ee-9855fdf22826" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Hurtownia.Api/Controllers/KlientController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1016">
+              <caret line="70" column="15" selection-start-line="70" selection-start-column="15" selection-end-line="70" selection-end-column="15" />
+              <folding>
+                <marker date="1560363540268" expanded="true" signature="6:379" ph="..." />
+                <marker date="1560363540268" expanded="true" signature="416:3473" ph="{...}" />
+                <marker date="1560363540268" expanded="true" signature="491:3467" ph="{...}" />
+                <marker date="1560363540268" expanded="true" signature="600:640" ph="{...}" />
+                <marker date="1560363540268" expanded="true" signature="727:1378" ph="{...}" />
+                <marker date="1560363540268" expanded="true" signature="881:1344" ph="{...}" />
+                <marker date="1560363540268" expanded="true" signature="995:1280" ph="{...}" />
+                <marker date="1560363540268" expanded="true" signature="1085:1261" ph="{...}" />
+                <marker date="1560363540268" expanded="true" signature="1481:1898" ph="{...}" />
+                <marker date="1560363540268" expanded="true" signature="1609:1864" ph="{...}" />
+                <marker date="1560363540268" expanded="true" signature="1676:1852" ph="{...}" />
+                <marker date="1560363540268" expanded="true" signature="2031:2423" ph="{...}" />
+                <marker date="1560363540268" expanded="true" signature="2509:3102" ph="{...}" />
+                <marker date="1560363540268" expanded="true" signature="2558:2772" ph="{...}" />
+                <marker date="1560363540268" expanded="true" signature="2938:3094" ph="{...}" />
+                <marker date="1560363540268" expanded="true" signature="3182:3450" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hurtownia.Data/DAO/Klient.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="15" selection-start-column="15" selection-end-column="15" />
+              <folding>
+                <marker date="1560034725749" expanded="true" signature="63:445" ph="{...}" />
+                <marker date="1560034725749" expanded="true" signature="89:443" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hurtownia.Api/Controllers/PracownikController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+              <folding>
+                <marker date="1560365555186" expanded="true" signature="6:379" ph="..." />
+                <marker date="1560365555186" expanded="true" signature="416:4427" ph="{...}" />
+                <marker date="1560365555186" expanded="true" signature="501:4425" ph="{...}" />
+                <marker date="1560365555186" expanded="true" signature="625:677" ph="{...}" />
+                <marker date="1560365555186" expanded="true" signature="780:1694" ph="{...}" />
+                <marker date="1560365555186" expanded="true" signature="897:1652" ph="{...}" />
+                <marker date="1560365555186" expanded="true" signature="1057:1562" ph="{...}" />
+                <marker date="1560365555186" expanded="true" signature="1198:1531" ph="{...}" />
+                <marker date="1560365555186" expanded="true" signature="1813:2388" ph="{...}" />
+                <marker date="1560365555186" expanded="true" signature="1965:2346" ph="{...}" />
+                <marker date="1560365555186" expanded="true" signature="2047:2330" ph="{...}" />
+                <marker date="1560365555186" expanded="true" signature="2479:3236" ph="{...}" />
+                <marker date="1560365555186" expanded="true" signature="2546:2823" ph="{...}" />
+                <marker date="1560365555186" expanded="true" signature="3018:3224" ph="{...}" />
+                <marker date="1560365555186" expanded="true" signature="3395:4020" ph="{...}" />
+                <marker date="1560365555186" expanded="true" signature="3547:3977" ph="{...}" />
+                <marker date="1560365555186" expanded="true" signature="4108:4417" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hurtownia.Api/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="44" column="12" selection-start-line="44" selection-start-column="12" selection-end-line="44" selection-end-column="12" />
+              <folding>
+                <marker date="1560107179583" expanded="true" signature="6:599" ph="..." />
+                <marker date="1560107179583" expanded="true" signature="624:2405" ph="{...}" />
+                <marker date="1560107179583" expanded="true" signature="651:2403" ph="{...}" />
+                <marker date="1560107179583" expanded="true" signature="765:828" ph="{...}" />
+                <marker date="1560107179583" expanded="true" signature="922:1480" ph="{...}" />
+                <marker date="1560107179583" expanded="true" signature="1211:1431" ph="{...}" />
+                <marker date="1560107179583" expanded="true" signature="1570:2397" ph="{...}" />
+                <marker date="1560107179583" expanded="true" signature="1713:2130" ph="{...}" />
+                <marker date="1560107179583" expanded="true" signature="2169:2250" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hurtownia.Api/BindingModels/EditProdukt.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+              <folding>
+                <marker date="1560282334221" expanded="true" signature="6:99" ph="..." />
+                <marker date="1560282334221" expanded="true" signature="138:643" ph="{...}" />
+                <marker date="1560282334221" expanded="true" signature="169:636" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hurtownia.Api/BindingModels/EditPracownik.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+              <folding>
+                <marker date="1560365121172" expanded="true" signature="6:99" ph="..." />
+                <marker date="1560365121172" expanded="true" signature="138:641" ph="{...}" />
+                <marker date="1560365121172" expanded="true" signature="171:639" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hurtownia.Api/BindingModels/CreatePracownik.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="27" column="48" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
+              <folding>
+                <marker date="1560364982185" expanded="true" signature="6:113" ph="..." />
+                <marker date="1560364982185" expanded="true" signature="152:890" ph="{...}" />
+                <marker date="1560364982185" expanded="true" signature="187:888" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hurtownia.Api/ViewModels/PracownikViewModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+              <folding>
+                <marker date="1560364569120" expanded="true" signature="36:314" ph="{...}" />
+                <marker date="1560364569120" expanded="true" signature="74:312" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hurtownia.Data/DAO/Pracownik.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+              <folding>
+                <marker date="1560034750081" expanded="true" signature="65:458" ph="{...}" />
+                <marker date="1560034750081" expanded="true" signature="94:456" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Hurtownia.Api/ViewModels/KlientViewModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1560364569136" expanded="true" signature="36:260" ph="{...}" />
+                <marker date="1560364569136" expanded="true" signature="71:253" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Hurtownia.Api/BindingModels/AddProdukt.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Hurtownia.Api/BindingModels/EditProdukt.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Hurtownia.Data/DAOConfigurations/KategoriaConfiguration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Hurtownia.Data/DAOConfigurations/KlientConfiguration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Hurtownia.Data/DAOConfigurations/FirmaConfiguration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Hurtownia.Api/ViewModels/ProduktViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Hurtownia.Data/DAOConfigurations/PracownikConfiguration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Hurtownia.Data/DAOConfigurations/AdresConfiguration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Hurtownia.Data/DAOConfigurations/FakturaConfiguration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Hurtownia.Data/DAOConfigurations/ZamowieniaConfiguration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Hurtownia.Data/DAOConfigurations/PozycjeConfiguration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Hurtownia.Data/DAOConfigurations/ProduktConfiguration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Hurtownia.Data/Migrations/DatabaseSeed.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Hurtownia.Data/DAO/Produkt.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Hurtownia.Data/DAO/Zamowienie.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Hurtownia.Data/DAO/Adres.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Hurtownia.Data/DAO/Firma.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Hurtownia.Data/DAO/Kategoria.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Hurtownia.Data/DAO/Pracownik.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Hurtownia.Data/DAO/Faktura.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Hurtownia.Data/DAO/Klient.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Hurtownia.Data/DAO/Pozycja.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Hurtownia.Data/HurtowniaDbContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Hurtownia.Api/Controllers/KlientController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Hurtownia.Api/Controllers/PracownikController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Hurtownia.Api/Controllers/ProduktController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Hurtownia.Api/ViewModels/KlientViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Hurtownia.Api/BindingModels/CreateKlient.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Hurtownia.Api/BindingModels/EditUser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Hurtownia.Api/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Hurtownia.Api/BindingModels/EditPracownik.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Hurtownia.Api/BindingModels/CreatePracownik.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Hurtownia.Api/ViewModels/PracownikViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Hurtownia.Api/appsettings.json" />
+        <option value="$PROJECT_DIR$/Hurtownia.Data/Class1.cs" />
+        <option value="$PROJECT_DIR$/Hurtownia.Data/DAO/Reklamacja.cs" />
+        <option value="$PROJECT_DIR$/Hurtownia.Data/DAO/Adres.cs" />
+        <option value="$PROJECT_DIR$/Hurtownia.Data/DAO/Klient.cs" />
+        <option value="$PROJECT_DIR$/Hurtownia.Data/DAO/Pracownik.cs" />
+        <option value="$PROJECT_DIR$/Hurtownia.Data/DAO/Firma.cs" />
+        <option value="$PROJECT_DIR$/Hurtownia.Data/DAO/Zamowienie.cs" />
+        <option value="$PROJECT_DIR$/Hurtownia.Data/DAO/Pozycja.cs" />
+        <option value="$PROJECT_DIR$/Hurtownia.Data/DAO/Produkt.cs" />
+        <option value="$PROJECT_DIR$/Hurtownia.Data/DAO/Kategoria.cs" />
+        <option value="$PROJECT_DIR$/Hurtownia.Data/DAOConfigurations/AdresConfiguration.cs" />
+        <option value="$PROJECT_DIR$/Hurtownia.Data/DAOConfigurations/KategoriaConfiguration.cs" />
+        <option value="$PROJECT_DIR$/Hurtownia.Data/DAOConfigurations/FakturaConfiguration.cs" />
+        <option value="$PROJECT_DIR$/Hurtownia.Data/DAOConfigurations/FirmaConfiguration.cs" />
+        <option value="$PROJECT_DIR$/Hurtownia.Data/DAOConfigurations/PozycjeConfiguration.cs" />
+        <option value="$PROJECT_DIR$/Hurtownia.Data/DAOConfigurations/PracownikConfiguration.cs" />
+        <option value="$PROJECT_DIR$/Hurtownia.Data/DAOConfigurations/ProduktConfiguration.cs" />
+        <option value="$PROJECT_DIR$/Hurtownia.Data/DAOConfigurations/ZamowieniaConfiguration.cs" />
+        <option value="$PROJECT_DIR$/Hurtownia.Data/HurtowniaDbContext.cs" />
+        <option value="$PROJECT_DIR$/Hurtownia.Data/DAO/Faktura.cs" />
+        <option value="$PROJECT_DIR$/Hurtownia.Data/DAOConfigurations/KlientConfiguration.cs" />
+        <option value="$PROJECT_DIR$/Hurtownia.Data/Migrations/DatabaseSeed.cs" />
+        <option value="$PROJECT_DIR$/Hurtownia.Api/BindingModels/CreateKlient.cs" />
+        <option value="$PROJECT_DIR$/Hurtownia.Api/Startup.cs" />
+        <option value="$PROJECT_DIR$/Hurtownia.Api/BindingModels/EditUser.cs" />
+        <option value="$PROJECT_DIR$/Hurtownia.Api/ViewModels/ProductViewModel.cs" />
+        <option value="$PROJECT_DIR$/Hurtownia.Api/BindingModels/EditProdukt.cs" />
+        <option value="$PROJECT_DIR$/Hurtownia.Api/BindingModels/AddProdukt.cs" />
+        <option value="$PROJECT_DIR$/Hurtownia.Api/ViewModels/ProduktViewModel.cs" />
+        <option value="$PROJECT_DIR$/Hurtownia.Api/Controllers/ProduktController.cs" />
+        <option value="$PROJECT_DIR$/Hurtownia.Api/Controllers/KlientController.cs" />
+        <option value="$PROJECT_DIR$/Hurtownia.Api/ViewModels/KlientViewModel.cs" />
+        <option value="$PROJECT_DIR$/Hurtownia.Api/ViewModels/PracownikViewModel.cs" />
+        <option value="$PROJECT_DIR$/Hurtownia.Api/BindingModels/CreatePracownik.cs" />
+        <option value="$PROJECT_DIR$/Hurtownia.Api/BindingModels/EditPracownik.cs" />
+        <option value="$PROJECT_DIR$/Hurtownia.Api/Controllers/PracownikController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="716" />
+    <option name="y" value="25" />
+    <option name="width" value="650" />
+    <option name="height" value="743" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Hurtownia" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Hurtownia" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Hurtownia.Data" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Hurtownia" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Hurtownia.Data" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="DAO" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../zadania_projekt/zadanie_7/Foodly/Foodly.sln" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.Hurtownia.Api">
+    <configuration name="Hurtownia.Aou: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Hurtownia.Aou/Hurtownia.Aou.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hurtownia.Api" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Hurtownia.Api/Hurtownia.Api.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="Hurtownia.Api" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7af6306-0149-49c1-a9ee-9855fdf22826" name="Default Changelist" comment="" />
+      <created>1560030450775</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560030450775</updated>
+      <workItem from="1560030455400" duration="8676000" />
+      <workItem from="1560091953406" duration="14319000" />
+      <workItem from="1560109262454" duration="17000" />
+      <workItem from="1560161439724" duration="1299000" />
+      <workItem from="1560280496964" duration="681000" />
+      <workItem from="1560281253054" duration="3441000" />
+      <workItem from="1560287866736" duration="22000" />
+      <workItem from="1560362987007" duration="3193000" />
+      <workItem from="1560421822192" duration="924000" />
+      <workItem from="1560808549655" duration="607000" />
+      <workItem from="1560810090526" duration="369000" />
+      <workItem from="1562523273293" duration="431000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="33979000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28278914" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2974138" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.3297414" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.3297414" />
+      <window_info anchor="bottom" id="REST Client" order="16" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" weight="0.32982844" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Hurtownia.Data/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/Hurtownia.Api/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="92" selection-start-line="8" selection-start-column="92" selection-end-line="8" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hurtownia.Data/DAO/Reklamacja.cs" />
+    <entry file="file://$PROJECT_DIR$/Hurtownia.Data/DAO/Firma.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <marker date="1560034773893" expanded="true" signature="63:448" ph="{...}" />
+            <marker date="1560034773893" expanded="true" signature="88:446" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hurtownia.Data/DAO/Zamowienie.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding>
+            <marker date="1560034809357" expanded="false" signature="6:47" ph="..." />
+            <marker date="1560034809357" expanded="true" signature="77:330" ph="{...}" />
+            <marker date="1560034809357" expanded="true" signature="107:328" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hurtownia.Data/DAO/Pozycja.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="52" selection-start-line="8" selection-end-line="9" selection-end-column="52" />
+          <folding>
+            <marker date="1560034852849" expanded="true" signature="28:308" ph="{...}" />
+            <marker date="1560034852849" expanded="true" signature="55:306" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hurtownia.Data/DAOConfigurations/AdresConfiguration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <folding>
+            <marker date="1560035307034" expanded="false" signature="6:117" ph="..." />
+            <marker date="1560035307034" expanded="true" signature="161:595" ph="{...}" />
+            <marker date="1560035307034" expanded="true" signature="232:593" ph="{...}" />
+            <marker date="1560035307034" expanded="true" signature="302:578" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hurtownia.Data/DAOConfigurations/FakturaConfiguration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" selection-start-line="14" selection-end-line="15" />
+          <folding>
+            <marker date="1560035933064" expanded="true" signature="6:117" ph="..." />
+            <marker date="1560035933064" expanded="true" signature="161:740" ph="{...}" />
+            <marker date="1560035933064" expanded="true" signature="236:738" ph="{...}" />
+            <marker date="1560035933064" expanded="true" signature="308:723" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hurtownia.Data/DAOConfigurations/FirmaConfiguration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <marker date="1560035939860" expanded="true" signature="6:117" ph="..." />
+            <marker date="1560035939860" expanded="true" signature="161:582" ph="{...}" />
+            <marker date="1560035939860" expanded="true" signature="232:580" ph="{...}" />
+            <marker date="1560035939860" expanded="true" signature="302:565" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hurtownia.Data/DAOConfigurations/KategoriaConfiguration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <folding>
+            <marker date="1560035325522" expanded="false" signature="6:117" ph="..." />
+            <marker date="1560035325522" expanded="true" signature="161:459" ph="{...}" />
+            <marker date="1560035325522" expanded="true" signature="240:457" ph="{...}" />
+            <marker date="1560035325522" expanded="true" signature="314:442" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hurtownia.Data/DAOConfigurations/PozycjeConfiguration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <marker date="1560035955076" expanded="true" signature="6:117" ph="..." />
+            <marker date="1560035955076" expanded="true" signature="161:443" ph="{...}" />
+            <marker date="1560035955076" expanded="true" signature="236:441" ph="{...}" />
+            <marker date="1560035955076" expanded="true" signature="308:426" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hurtownia.Data/DAOConfigurations/PracownikConfiguration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <marker date="1560035963960" expanded="true" signature="6:117" ph="..." />
+            <marker date="1560035963960" expanded="true" signature="161:637" ph="{...}" />
+            <marker date="1560035963960" expanded="true" signature="240:635" ph="{...}" />
+            <marker date="1560035963960" expanded="true" signature="314:620" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hurtownia.Data/DAOConfigurations/ProduktConfiguration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="60" selection-start-line="13" selection-start-column="60" selection-end-line="13" selection-end-column="60" />
+          <folding>
+            <marker date="1560035970604" expanded="true" signature="6:117" ph="..." />
+            <marker date="1560035970604" expanded="true" signature="161:622" ph="{...}" />
+            <marker date="1560035970604" expanded="true" signature="236:620" ph="{...}" />
+            <marker date="1560035970604" expanded="true" signature="308:605" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hurtownia.Data/DAOConfigurations/ZamowieniaConfiguration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="64" selection-start-line="10" selection-start-column="64" selection-end-line="10" selection-end-column="64" />
+          <folding>
+            <marker date="1560035977516" expanded="true" signature="6:117" ph="..." />
+            <marker date="1560035977516" expanded="true" signature="161:476" ph="{...}" />
+            <marker date="1560035977516" expanded="true" signature="242:474" ph="{...}" />
+            <marker date="1560035977516" expanded="true" signature="317:459" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hurtownia.Data/DAO/Adres.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding>
+            <marker date="1560034700757" expanded="true" signature="63:603" ph="{...}" />
+            <marker date="1560034700757" expanded="true" signature="88:601" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hurtownia.Data/HurtowniaDbContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="24" column="68" selection-start-line="24" selection-start-column="68" selection-end-line="24" selection-end-column="68" />
+          <folding>
+            <marker date="1560035982044" expanded="true" signature="6:102" ph="..." />
+            <marker date="1560035982044" expanded="true" signature="128:1592" ph="{...}" />
+            <marker date="1560035982044" expanded="true" signature="177:1580" ph="{...}" />
+            <marker date="1560035982044" expanded="true" signature="918:1556" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hurtownia.Data/DAO/Faktura.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+          <folding>
+            <marker date="1560036082473" expanded="true" signature="6:47" ph="..." />
+            <marker date="1560036082473" expanded="true" signature="77:661" ph="{...}" />
+            <marker date="1560036082473" expanded="true" signature="104:659" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hurtownia.Api/ViewModels/ProductViewModel.cs" />
+    <entry file="file://$PROJECT_DIR$/Hurtownia.Data/Migrations/DatabaseSeed.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="41" column="35" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
+          <folding>
+            <marker date="1560095821388" expanded="true" signature="6:107" ph="..." />
+            <marker date="1560095821388" expanded="true" signature="144:8938" ph="{...}" />
+            <marker date="1560095821388" expanded="true" signature="176:8936" ph="{...}" />
+            <marker date="1560095821388" expanded="true" signature="293:345" ph="{...}" />
+            <marker date="1560095821388" expanded="true" signature="374:1167" ph="{...}" />
+            <marker date="1560095821388" expanded="true" signature="1239:1919" ph="{...}" />
+            <marker date="1560095821388" expanded="true" signature="1383:1513" ph="{...}" />
+            <marker date="1560095821388" expanded="true" signature="1779:1909" ph="{...}" />
+            <marker date="1560095821388" expanded="true" signature="1993:2920" ph="{...}" />
+            <marker date="1560095821388" expanded="true" signature="3002:3344" ph="{...}" />
+            <marker date="1560095821388" expanded="true" signature="3428:4922" ph="{...}" />
+            <marker date="1560095821388" expanded="true" signature="5013:5432" ph="{...}" />
+            <marker date="1560095821388" expanded="true" signature="5502:6154" ph="{...}" />
+            <marker date="1560095821388" expanded="true" signature="6230:7350" ph="{...}" />
+            <marker date="1560095821388" expanded="true" signature="7426:8285" ph="{...}" />
+            <marker date="1560095821388" expanded="true" signature="8369:8927" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hurtownia.Data/DAOConfigurations/KlientConfiguration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="59" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
+          <folding>
+            <marker date="1560036724306" expanded="true" signature="6:152" ph="..." />
+            <marker date="1560036724306" expanded="true" signature="196:524" ph="{...}" />
+            <marker date="1560036724306" expanded="true" signature="269:522" ph="{...}" />
+            <marker date="1560036724306" expanded="true" signature="340:516" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hurtownia.Data/DAO/Kategoria.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+          <folding>
+            <marker date="1560034852865" expanded="true" signature="63:278" ph="{...}" />
+            <marker date="1560034852865" expanded="true" signature="92:276" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hurtownia.Api/ViewModels/ProduktViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <folding>
+            <marker date="1560282938487" expanded="true" signature="62:385" ph="{...}" />
+            <marker date="1560282938487" expanded="true" signature="98:383" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hurtownia.Data/DAO/Produkt.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="13" column="65" selection-start-line="12" selection-end-line="13" selection-end-column="65" />
+          <folding>
+            <marker date="1560034852869" expanded="true" signature="63:454" ph="{...}" />
+            <marker date="1560034852869" expanded="true" signature="90:452" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hurtownia.Api/BindingModels/AddProdukt.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+          <folding>
+            <marker date="1560282798992" expanded="true" signature="6:143" ph="..." />
+            <marker date="1560282798992" expanded="true" signature="182:781" ph="{...}" />
+            <marker date="1560282798992" expanded="true" signature="212:779" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hurtownia.Api/BindingModels/EditUser.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding>
+            <marker date="1560108167166" expanded="true" signature="6:99" ph="..." />
+            <marker date="1560108167166" expanded="true" signature="138:696" ph="{...}" />
+            <marker date="1560108167166" expanded="true" signature="166:694" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hurtownia.Api/BindingModels/CreateKlient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <marker date="1560105028383" expanded="true" signature="6:113" ph="..." />
+            <marker date="1560105028383" expanded="true" signature="152:759" ph="{...}" />
+            <marker date="1560105028383" expanded="true" signature="184:757" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hurtownia.Api/Controllers/ProduktController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <marker date="1560283339325" expanded="true" signature="6:379" ph="..." />
+            <marker date="1560283339325" expanded="true" signature="493:4078" ph="{...}" />
+            <marker date="1560283339325" expanded="true" signature="615:667" ph="{...}" />
+            <marker date="1560283339325" expanded="true" signature="767:1480" ph="{...}" />
+            <marker date="1560283339325" expanded="true" signature="878:1438" ph="{...}" />
+            <marker date="1560283339325" expanded="true" signature="1007:1359" ph="{...}" />
+            <marker date="1560283339325" expanded="true" signature="1111:1339" ph="{...}" />
+            <marker date="1560283339325" expanded="true" signature="1597:2156" ph="{...}" />
+            <marker date="1560283339325" expanded="true" signature="1741:2114" ph="{...}" />
+            <marker date="1560283339325" expanded="true" signature="1834:2053" ph="{...}" />
+            <marker date="1560283339325" expanded="true" signature="2308:2904" ph="{...}" />
+            <marker date="1560283339325" expanded="true" signature="2452:2862" ph="{...}" />
+            <marker date="1560283339325" expanded="true" signature="2985:3687" ph="{...}" />
+            <marker date="1560283339325" expanded="true" signature="3048:3296" ph="{...}" />
+            <marker date="1560283339325" expanded="true" signature="3473:3674" ph="{...}" />
+            <marker date="1560283339325" expanded="true" signature="3775:4070" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hurtownia.Api/Controllers/PracownikController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+          <folding>
+            <marker date="1560365555186" expanded="true" signature="6:379" ph="..." />
+            <marker date="1560365555186" expanded="true" signature="416:4427" ph="{...}" />
+            <marker date="1560365555186" expanded="true" signature="501:4425" ph="{...}" />
+            <marker date="1560365555186" expanded="true" signature="625:677" ph="{...}" />
+            <marker date="1560365555186" expanded="true" signature="780:1694" ph="{...}" />
+            <marker date="1560365555186" expanded="true" signature="897:1652" ph="{...}" />
+            <marker date="1560365555186" expanded="true" signature="1057:1562" ph="{...}" />
+            <marker date="1560365555186" expanded="true" signature="1198:1531" ph="{...}" />
+            <marker date="1560365555186" expanded="true" signature="1813:2388" ph="{...}" />
+            <marker date="1560365555186" expanded="true" signature="1965:2346" ph="{...}" />
+            <marker date="1560365555186" expanded="true" signature="2047:2330" ph="{...}" />
+            <marker date="1560365555186" expanded="true" signature="2479:3236" ph="{...}" />
+            <marker date="1560365555186" expanded="true" signature="2546:2823" ph="{...}" />
+            <marker date="1560365555186" expanded="true" signature="3018:3224" ph="{...}" />
+            <marker date="1560365555186" expanded="true" signature="3395:4020" ph="{...}" />
+            <marker date="1560365555186" expanded="true" signature="3547:3977" ph="{...}" />
+            <marker date="1560365555186" expanded="true" signature="4108:4417" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hurtownia.Api/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="44" column="12" selection-start-line="44" selection-start-column="12" selection-end-line="44" selection-end-column="12" />
+          <folding>
+            <marker date="1560107179583" expanded="true" signature="6:599" ph="..." />
+            <marker date="1560107179583" expanded="true" signature="624:2405" ph="{...}" />
+            <marker date="1560107179583" expanded="true" signature="651:2403" ph="{...}" />
+            <marker date="1560107179583" expanded="true" signature="765:828" ph="{...}" />
+            <marker date="1560107179583" expanded="true" signature="922:1480" ph="{...}" />
+            <marker date="1560107179583" expanded="true" signature="1211:1431" ph="{...}" />
+            <marker date="1560107179583" expanded="true" signature="1570:2397" ph="{...}" />
+            <marker date="1560107179583" expanded="true" signature="1713:2130" ph="{...}" />
+            <marker date="1560107179583" expanded="true" signature="2169:2250" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hurtownia.Api/BindingModels/EditProdukt.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+          <folding>
+            <marker date="1560282334221" expanded="true" signature="6:99" ph="..." />
+            <marker date="1560282334221" expanded="true" signature="138:643" ph="{...}" />
+            <marker date="1560282334221" expanded="true" signature="169:636" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hurtownia.Api/BindingModels/EditPracownik.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+          <folding>
+            <marker date="1560365121172" expanded="true" signature="6:99" ph="..." />
+            <marker date="1560365121172" expanded="true" signature="138:641" ph="{...}" />
+            <marker date="1560365121172" expanded="true" signature="171:639" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hurtownia.Api/BindingModels/CreatePracownik.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="27" column="48" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
+          <folding>
+            <marker date="1560364982185" expanded="true" signature="6:113" ph="..." />
+            <marker date="1560364982185" expanded="true" signature="152:890" ph="{...}" />
+            <marker date="1560364982185" expanded="true" signature="187:888" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hurtownia.Api/ViewModels/PracownikViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+          <folding>
+            <marker date="1560364569120" expanded="true" signature="36:314" ph="{...}" />
+            <marker date="1560364569120" expanded="true" signature="74:312" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hurtownia.Data/DAO/Pracownik.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+          <folding>
+            <marker date="1560034750081" expanded="true" signature="65:458" ph="{...}" />
+            <marker date="1560034750081" expanded="true" signature="94:456" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hurtownia.Api/ViewModels/KlientViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1560364569136" expanded="true" signature="36:260" ph="{...}" />
+            <marker date="1560364569136" expanded="true" signature="71:253" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hurtownia.Data/DAO/Klient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+          <folding>
+            <marker date="1560034725749" expanded="true" signature="63:445" ph="{...}" />
+            <marker date="1560034725749" expanded="true" signature="89:443" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hurtownia.Api/Controllers/KlientController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1016">
+          <caret line="70" column="15" selection-start-line="70" selection-start-column="15" selection-end-line="70" selection-end-column="15" />
+          <folding>
+            <marker date="1560363540268" expanded="true" signature="6:379" ph="..." />
+            <marker date="1560363540268" expanded="true" signature="416:3473" ph="{...}" />
+            <marker date="1560363540268" expanded="true" signature="491:3467" ph="{...}" />
+            <marker date="1560363540268" expanded="true" signature="600:640" ph="{...}" />
+            <marker date="1560363540268" expanded="true" signature="727:1378" ph="{...}" />
+            <marker date="1560363540268" expanded="true" signature="881:1344" ph="{...}" />
+            <marker date="1560363540268" expanded="true" signature="995:1280" ph="{...}" />
+            <marker date="1560363540268" expanded="true" signature="1085:1261" ph="{...}" />
+            <marker date="1560363540268" expanded="true" signature="1481:1898" ph="{...}" />
+            <marker date="1560363540268" expanded="true" signature="1609:1864" ph="{...}" />
+            <marker date="1560363540268" expanded="true" signature="1676:1852" ph="{...}" />
+            <marker date="1560363540268" expanded="true" signature="2031:2423" ph="{...}" />
+            <marker date="1560363540268" expanded="true" signature="2509:3102" ph="{...}" />
+            <marker date="1560363540268" expanded="true" signature="2558:2772" ph="{...}" />
+            <marker date="1560363540268" expanded="true" signature="2938:3094" ph="{...}" />
+            <marker date="1560363540268" expanded="true" signature="3182:3450" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

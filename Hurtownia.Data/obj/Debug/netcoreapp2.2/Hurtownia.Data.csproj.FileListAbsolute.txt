@@ -1,0 +1,9 @@
+/home/kn/dev/projekt/Hurtownia/Hurtownia.Data/bin/Debug/netcoreapp2.2/Hurtownia.Data.deps.json
+/home/kn/dev/projekt/Hurtownia/Hurtownia.Data/bin/Debug/netcoreapp2.2/Hurtownia.Data.dll
+/home/kn/dev/projekt/Hurtownia/Hurtownia.Data/bin/Debug/netcoreapp2.2/Hurtownia.Data.pdb
+/home/kn/dev/projekt/Hurtownia/Hurtownia.Data/obj/Debug/netcoreapp2.2/Hurtownia.Data.csprojAssemblyReference.cache
+/home/kn/dev/projekt/Hurtownia/Hurtownia.Data/obj/Debug/netcoreapp2.2/Hurtownia.Data.csproj.CoreCompileInputs.cache
+/home/kn/dev/projekt/Hurtownia/Hurtownia.Data/obj/Debug/netcoreapp2.2/Hurtownia.Data.AssemblyInfoInputs.cache
+/home/kn/dev/projekt/Hurtownia/Hurtownia.Data/obj/Debug/netcoreapp2.2/Hurtownia.Data.AssemblyInfo.cs
+/home/kn/dev/projekt/Hurtownia/Hurtownia.Data/obj/Debug/netcoreapp2.2/Hurtownia.Data.dll
+/home/kn/dev/projekt/Hurtownia/Hurtownia.Data/obj/Debug/netcoreapp2.2/Hurtownia.Data.pdb

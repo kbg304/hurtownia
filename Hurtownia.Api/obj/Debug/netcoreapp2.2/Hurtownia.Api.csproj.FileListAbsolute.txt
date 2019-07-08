@@ -1,0 +1,15 @@
+/home/kn/dev/projekt/Hurtownia/Hurtownia.Api/bin/Debug/netcoreapp2.2/Hurtownia.Api.dll.config
+/home/kn/dev/projekt/Hurtownia/Hurtownia.Api/bin/Debug/netcoreapp2.2/Hurtownia.Api.deps.json
+/home/kn/dev/projekt/Hurtownia/Hurtownia.Api/bin/Debug/netcoreapp2.2/Hurtownia.Api.runtimeconfig.json
+/home/kn/dev/projekt/Hurtownia/Hurtownia.Api/bin/Debug/netcoreapp2.2/Hurtownia.Api.runtimeconfig.dev.json
+/home/kn/dev/projekt/Hurtownia/Hurtownia.Api/bin/Debug/netcoreapp2.2/Hurtownia.Api.dll
+/home/kn/dev/projekt/Hurtownia/Hurtownia.Api/bin/Debug/netcoreapp2.2/Hurtownia.Api.pdb
+/home/kn/dev/projekt/Hurtownia/Hurtownia.Api/obj/Debug/netcoreapp2.2/Hurtownia.Api.csprojAssemblyReference.cache
+/home/kn/dev/projekt/Hurtownia/Hurtownia.Api/obj/Debug/netcoreapp2.2/Hurtownia.Api.csproj.CoreCompileInputs.cache
+/home/kn/dev/projekt/Hurtownia/Hurtownia.Api/obj/Debug/netcoreapp2.2/Hurtownia.Api.AssemblyInfoInputs.cache
+/home/kn/dev/projekt/Hurtownia/Hurtownia.Api/obj/Debug/netcoreapp2.2/Hurtownia.Api.AssemblyInfo.cs
+/home/kn/dev/projekt/Hurtownia/Hurtownia.Api/obj/Debug/netcoreapp2.2/Hurtownia.Api.dll
+/home/kn/dev/projekt/Hurtownia/Hurtownia.Api/obj/Debug/netcoreapp2.2/Hurtownia.Api.pdb
+/home/kn/dev/projekt/Hurtownia/Hurtownia.Api/bin/Debug/netcoreapp2.2/Hurtownia.Data.dll
+/home/kn/dev/projekt/Hurtownia/Hurtownia.Api/bin/Debug/netcoreapp2.2/Hurtownia.Data.pdb
+/home/kn/dev/projekt/Hurtownia/Hurtownia.Api/obj/Debug/netcoreapp2.2/Hurtownia.Api.csproj.CopyComplete

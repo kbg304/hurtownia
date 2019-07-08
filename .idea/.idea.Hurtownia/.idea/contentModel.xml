@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2019.1/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2019.1/system/resharper-host/local/Transient/ReSharperHost/v191/SolutionCaches/_Hurtownia.52733990.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="Hurtownia.Api" t="IncludeRecursive">
+        <e p="BindingModels" t="Include">
+          <e p="AddProdukt.cs" t="Include" />
+          <e p="CreateKlient.cs" t="Include" />
+          <e p="CreatePracownik.cs" t="Include" />
+          <e p="EditPracownik.cs" t="Include" />
+          <e p="EditProdukt.cs" t="Include" />
+          <e p="EditUser.cs" t="Include" />
+        </e>
+        <e p="Controllers" t="Include">
+          <e p="KlientController.cs" t="Include" />
+          <e p="PracownikController.cs" t="Include" />
+          <e p="ProduktController.cs" t="Include" />
+        </e>
+        <e p="Hurtownia.Api.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="ViewModels" t="Include">
+          <e p="KlientViewModel.cs" t="Include" />
+          <e p="PracownikViewModel.cs" t="Include" />
+          <e p="ProduktViewModel.cs" t="Include" />
+        </e>
+        <e p="app.config" t="Include" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="Hurtownia.Api.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Hurtownia.Data" t="IncludeRecursive">
+        <e p="DAO" t="Include">
+          <e p="Adres.cs" t="Include" />
+          <e p="Faktura.cs" t="Include" />
+          <e p="Firma.cs" t="Include" />
+          <e p="Kategoria.cs" t="Include" />
+          <e p="Klient.cs" t="Include" />
+          <e p="Pozycja.cs" t="Include" />
+          <e p="Pracownik.cs" t="Include" />
+          <e p="Produkt.cs" t="Include" />
+          <e p="Zamowienie.cs" t="Include" />
+        </e>
+        <e p="DAOConfigurations" t="Include">
+          <e p="AdresConfiguration.cs" t="Include" />
+          <e p="FakturaConfiguration.cs" t="Include" />
+          <e p="FirmaConfiguration.cs" t="Include" />
+          <e p="KategoriaConfiguration.cs" t="Include" />
+          <e p="KlientConfiguration.cs" t="Include" />
+          <e p="PozycjeConfiguration.cs" t="Include" />
+          <e p="PracownikConfiguration.cs" t="Include" />
+          <e p="ProduktConfiguration.cs" t="Include" />
+          <e p="ZamowieniaConfiguration.cs" t="Include" />
+        </e>
+        <e p="Hurtownia.Data.csproj" t="IncludeRecursive" />
+        <e p="HurtowniaDbContext.cs" t="Include" />
+        <e p="Migrations" t="Include">
+          <e p="DatabaseSeed.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="Hurtownia.Data.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Hurtownia.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

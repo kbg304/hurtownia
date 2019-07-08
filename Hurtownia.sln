@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hurtownia.Api", "Hurtownia.Api\Hurtownia.Api.csproj", "{539DD813-30D0-4A70-B3FE-3D4CAA6D41D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hurtownia.Data", "Hurtownia.Data\Hurtownia.Data.csproj", "{283ACA1E-742B-4D4A-9BC1-4E38F33901B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{539DD813-30D0-4A70-B3FE-3D4CAA6D41D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{539DD813-30D0-4A70-B3FE-3D4CAA6D41D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{539DD813-30D0-4A70-B3FE-3D4CAA6D41D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{539DD813-30D0-4A70-B3FE-3D4CAA6D41D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{283ACA1E-742B-4D4A-9BC1-4E38F33901B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{283ACA1E-742B-4D4A-9BC1-4E38F33901B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{283ACA1E-742B-4D4A-9BC1-4E38F33901B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{283ACA1E-742B-4D4A-9BC1-4E38F33901B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
